@@ -1,0 +1,3 @@
+#1: run: make. It will generate the execute file: dec_server
+#2: run: make client. It will generate the execute file: client
+#3: run: ./dec_server. Then run: ./client
